@@ -75,7 +75,7 @@ internal class Program
         if (string.IsNullOrEmpty(password))
         {
             Console.WriteLine("Please enter a password");
-            
+
             if (string.IsNullOrEmpty(confirmPassword))
             {
              Console.WriteLine("Please enter a passowrd confirmation");
@@ -92,6 +92,8 @@ internal class Program
                 {
                   Console.WriteLine("Passwords do not match");
                 }
+
+                Console.WriteLine();
             }
         }
     }
