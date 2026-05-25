@@ -1,0 +1,14 @@
+/Users/eev/C#Projects/TimeTable/bin/Debug/net10.0/TimeTable
+/Users/eev/C#Projects/TimeTable/bin/Debug/net10.0/TimeTable.deps.json
+/Users/eev/C#Projects/TimeTable/bin/Debug/net10.0/TimeTable.runtimeconfig.json
+/Users/eev/C#Projects/TimeTable/bin/Debug/net10.0/TimeTable.dll
+/Users/eev/C#Projects/TimeTable/bin/Debug/net10.0/TimeTable.pdb
+/Users/eev/C#Projects/TimeTable/obj/Debug/net10.0/TimeTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eev/C#Projects/TimeTable/obj/Debug/net10.0/TimeTable.AssemblyInfoInputs.cache
+/Users/eev/C#Projects/TimeTable/obj/Debug/net10.0/TimeTable.AssemblyInfo.cs
+/Users/eev/C#Projects/TimeTable/obj/Debug/net10.0/TimeTable.csproj.CoreCompileInputs.cache
+/Users/eev/C#Projects/TimeTable/obj/Debug/net10.0/TimeTable.dll
+/Users/eev/C#Projects/TimeTable/obj/Debug/net10.0/refint/TimeTable.dll
+/Users/eev/C#Projects/TimeTable/obj/Debug/net10.0/TimeTable.pdb
+/Users/eev/C#Projects/TimeTable/obj/Debug/net10.0/TimeTable.genruntimeconfig.cache
+/Users/eev/C#Projects/TimeTable/obj/Debug/net10.0/ref/TimeTable.dll
