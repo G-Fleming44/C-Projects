@@ -1,0 +1,15 @@
+/Users/eev/C#Projects/AreaOfTriangle/bin/Debug/net10.0/AreaOfTriangle
+/Users/eev/C#Projects/AreaOfTriangle/bin/Debug/net10.0/AreaOfTriangle.deps.json
+/Users/eev/C#Projects/AreaOfTriangle/bin/Debug/net10.0/AreaOfTriangle.runtimeconfig.json
+/Users/eev/C#Projects/AreaOfTriangle/bin/Debug/net10.0/AreaOfTriangle.dll
+/Users/eev/C#Projects/AreaOfTriangle/bin/Debug/net10.0/AreaOfTriangle.pdb
+/Users/eev/C#Projects/AreaOfTriangle/obj/Debug/net10.0/AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eev/C#Projects/AreaOfTriangle/obj/Debug/net10.0/AreaOfTriangle.AssemblyInfoInputs.cache
+/Users/eev/C#Projects/AreaOfTriangle/obj/Debug/net10.0/AreaOfTriangle.AssemblyInfo.cs
+/Users/eev/C#Projects/AreaOfTriangle/obj/Debug/net10.0/AreaOfTriangle.csproj.CoreCompileInputs.cache
+/Users/eev/C#Projects/AreaOfTriangle/obj/Debug/net10.0/AreaOfTriangle.sourcelink.json
+/Users/eev/C#Projects/AreaOfTriangle/obj/Debug/net10.0/AreaOfTriangle.dll
+/Users/eev/C#Projects/AreaOfTriangle/obj/Debug/net10.0/refint/AreaOfTriangle.dll
+/Users/eev/C#Projects/AreaOfTriangle/obj/Debug/net10.0/AreaOfTriangle.pdb
+/Users/eev/C#Projects/AreaOfTriangle/obj/Debug/net10.0/AreaOfTriangle.genruntimeconfig.cache
+/Users/eev/C#Projects/AreaOfTriangle/obj/Debug/net10.0/ref/AreaOfTriangle.dll
