@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "oddEvenSplit/1.0.0": {
+        "runtime": {
+          "oddEvenSplit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oddEvenSplit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

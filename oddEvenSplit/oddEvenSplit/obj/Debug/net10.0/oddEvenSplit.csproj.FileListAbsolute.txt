@@ -1,0 +1,15 @@
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/bin/Debug/net10.0/oddEvenSplit
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/bin/Debug/net10.0/oddEvenSplit.deps.json
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/bin/Debug/net10.0/oddEvenSplit.runtimeconfig.json
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/bin/Debug/net10.0/oddEvenSplit.dll
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/bin/Debug/net10.0/oddEvenSplit.pdb
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/obj/Debug/net10.0/oddEvenSplit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/obj/Debug/net10.0/oddEvenSplit.AssemblyInfoInputs.cache
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/obj/Debug/net10.0/oddEvenSplit.AssemblyInfo.cs
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/obj/Debug/net10.0/oddEvenSplit.csproj.CoreCompileInputs.cache
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/obj/Debug/net10.0/oddEvenSplit.sourcelink.json
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/obj/Debug/net10.0/oddEvenSplit.dll
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/obj/Debug/net10.0/refint/oddEvenSplit.dll
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/obj/Debug/net10.0/oddEvenSplit.pdb
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/obj/Debug/net10.0/oddEvenSplit.genruntimeconfig.cache
+/Users/eev/C#Projects/oddEvenSplit/oddEvenSplit/obj/Debug/net10.0/ref/oddEvenSplit.dll
