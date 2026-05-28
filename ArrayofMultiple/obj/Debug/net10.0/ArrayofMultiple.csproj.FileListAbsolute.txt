@@ -1,0 +1,15 @@
+/Users/eev/C#Projects/ArrayofMultiple/bin/Debug/net10.0/ArrayofMultiple
+/Users/eev/C#Projects/ArrayofMultiple/bin/Debug/net10.0/ArrayofMultiple.deps.json
+/Users/eev/C#Projects/ArrayofMultiple/bin/Debug/net10.0/ArrayofMultiple.runtimeconfig.json
+/Users/eev/C#Projects/ArrayofMultiple/bin/Debug/net10.0/ArrayofMultiple.dll
+/Users/eev/C#Projects/ArrayofMultiple/bin/Debug/net10.0/ArrayofMultiple.pdb
+/Users/eev/C#Projects/ArrayofMultiple/obj/Debug/net10.0/ArrayofMultiple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eev/C#Projects/ArrayofMultiple/obj/Debug/net10.0/ArrayofMultiple.AssemblyInfoInputs.cache
+/Users/eev/C#Projects/ArrayofMultiple/obj/Debug/net10.0/ArrayofMultiple.AssemblyInfo.cs
+/Users/eev/C#Projects/ArrayofMultiple/obj/Debug/net10.0/ArrayofMultiple.csproj.CoreCompileInputs.cache
+/Users/eev/C#Projects/ArrayofMultiple/obj/Debug/net10.0/ArrayofMultiple.sourcelink.json
+/Users/eev/C#Projects/ArrayofMultiple/obj/Debug/net10.0/ArrayofMultiple.dll
+/Users/eev/C#Projects/ArrayofMultiple/obj/Debug/net10.0/refint/ArrayofMultiple.dll
+/Users/eev/C#Projects/ArrayofMultiple/obj/Debug/net10.0/ArrayofMultiple.pdb
+/Users/eev/C#Projects/ArrayofMultiple/obj/Debug/net10.0/ArrayofMultiple.genruntimeconfig.cache
+/Users/eev/C#Projects/ArrayofMultiple/obj/Debug/net10.0/ref/ArrayofMultiple.dll
