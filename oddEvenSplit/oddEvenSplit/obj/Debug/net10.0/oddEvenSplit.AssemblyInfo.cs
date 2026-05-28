@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("oddEvenSplit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5edb824d36cece9e9a45b4522e9388f73af7ad40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4c933d140830d8f5efee13db03dfb82c0d91a2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("oddEvenSplit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oddEvenSplit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

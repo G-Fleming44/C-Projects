@@ -5,7 +5,11 @@ List<int> odd = new List<int>();
 List<int> even = new List<int>();
 
 
-for (int i = 0; i <= 20; i++)
+Console.WriteLine("Please enter a number");
+int nums = Convert.ToInt32(Console.ReadLine());
+
+
+for (int i = 0; i <= nums; i++)
 {
 
     if (i % 2 == 0)
